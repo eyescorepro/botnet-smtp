@@ -8,7 +8,6 @@
 ###   [invalid helo] [ylmf-pc]
 
 ###   [Coyntry]
-#####   17 Vietnam
 #####   1 Algeria
 #####   6 Argentina
 #####   1 Armenia
