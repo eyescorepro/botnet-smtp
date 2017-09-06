@@ -2,7 +2,7 @@
 ### [PTRMssing] [MalformedAddress] [ylmf-pc] [spoof] [InvalidAddress] [.] [.]
 #### [Updated every few hours]
 
-# [Counting 82578 IPs]
+# [Counting 82650 IPs]
 
 # [Symptoms] 
 ###   [PTRMssing] [MalformedAddress] [ylmf-pc] [spoof] [InvalidAddress] [.] [.]
