@@ -2,7 +2,7 @@
 ### [InvalidAddress]
 #### [Updated every 2~3 hours]
 
-# [Counting 14907 IPs]
+# [Counting 14910 IPs]
 
 # [Symptoms] 
 
