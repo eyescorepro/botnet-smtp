@@ -2,7 +2,7 @@
 ### [PTRMssing]
 #### [Updated every 2~3 hours]
 
-# [Counting 21813 IPs]
+# [Counting 21826 IPs]
 
 # [Symptoms] 
 ###   [PTR missing] [PTRmissing]
