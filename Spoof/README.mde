@@ -2,7 +2,7 @@
 ### [554 5.7.1 Spoofing Sender]
 #### [Updated every 2~3 hours]
 
-# [Counting 51511 IPs]
+# [Counting 51546 IPs]
 
 # [Symptoms] 
 ###   [554 5.7.1 Spoofing Sender in Local Domain]
