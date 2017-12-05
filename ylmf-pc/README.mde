@@ -2,7 +2,7 @@
 ### [found invalid helo]
 #### [Updated every 2~3 hours]
 
-# [Counting 2259 IPs]
+# [Counting 2266 IPs]
 
 # [Symptoms] 
 ###   [invalid helo] [ylmf-pc]
